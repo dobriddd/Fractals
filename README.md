@@ -1,4 +1,4 @@
-# Fractals Expploration
+# Fractals Exploration
 ## Overview
 This project delves into the mathematical concept of Fractals, an infinitely complex self-similar patterns. Aimed at explaining and visualising how Fractals work, this exploration covers what they are, how are they created and where can we find them.
 ## Introduction
