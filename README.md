@@ -8,7 +8,7 @@ Fractals are complex geometric figures that display self-similarity—patterns t
 - Exploration of Fractal Geometry
 - Mathematical and Python explanation
 - Visual representations of some of the most popular fractals
-- Examination on Fractal Applications
+- Examination of Fractal Applications
 - Introduction of a newly defined fractal
 ## Requirements
 To run the notebooks and scripts in this project, you'll need:
